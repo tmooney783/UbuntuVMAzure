@@ -83,42 +83,33 @@ Other settings: <br/>
 <br />
 <br />
 <p align="center">
-: <br/>
+Deployed: <br/>
 <img src="" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
+Named the DNS: <br/>
 <img src="" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
+I had to enable just-in-time from Microsoft Defender for Cloud: <br/>
 <img src="" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
+<br/>
 <img src="" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
+Deployed vm: <br/>
 <img src="" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
+Made sure to delete the vm and the resource groups afterwards: <br/>
 <img src="" height="80%" width="80%"/>
 <br />
 <br />
-<p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
-<br />
-<br />
-<p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
-<br />
-<br />
+</p>
