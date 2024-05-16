@@ -33,7 +33,7 @@ Deployed: <br/>
 <br />
 <br />
 <p align="center">
-Created a network security group: <br/>
+<br/>
 <img src="https://i.imgur.com/8yleYb2.png" height="80%" width="80%"/>
 <br />
 <br />
