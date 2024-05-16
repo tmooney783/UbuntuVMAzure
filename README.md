@@ -43,43 +43,43 @@ Linked it to the subnet: <br/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+Created a storage account to be used while vm is deployed: <br/>
+<img src="https://i.imgur.com/ju0wfSV.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+<br/>
+<img src="https://i.imgur.com/WnKkPnf.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+Choosing the basic settings for the vm: <br/>
+<img src="https://i.imgur.com/0dAH7MI.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+<br/>
+<img src="https://i.imgur.com/WTY8tWQ.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+<br/>
+<img src="https://i.imgur.com/OhNPBnv.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+Linking the subnet made earlier: <br/>
+<img src="https://i.imgur.com/oCYtyXV.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+Other settings: <br/>
+<img src="https://i.imgur.com/Vku9Nrj.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
-: <br/>
-<img src="" height="80%" width="80%"/>
+<br/>
+<img src="https://i.imgur.com/a8ICkRG.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
