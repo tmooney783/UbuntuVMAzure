@@ -104,7 +104,7 @@ I had to enable just-in-time from Microsoft Defender for Cloud: <br/>
 <br />
 <p align="center">
 Deployed vm: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/grXzVvS.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
