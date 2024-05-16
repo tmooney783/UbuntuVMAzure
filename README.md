@@ -84,22 +84,22 @@ Other settings: <br/>
 <br />
 <p align="center">
 Deployed: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/fs63kQq.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
 Named the DNS: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/4GrcGAM.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
 I had to enable just-in-time from Microsoft Defender for Cloud: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/euTJo4g.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/bbbNsSF.png" height="80%" width="80%"/>
 <br />
 <br />
 <p align="center">
