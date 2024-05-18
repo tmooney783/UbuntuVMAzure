@@ -109,7 +109,12 @@ Deployed vm: <br/>
 <br />
 <p align="center">
 Made sure to delete the vm and the resource groups afterwards: <br/>
-<img src="" height="80%" width="80%"/>
+<img src="https://i.imgur.com/wp23eGB.png" height="80%" width="80%"/>
+<br />
+<br />
+<p align="center">
+<br/>
+<img src="https://i.imgur.com/1JEpRTe.png" height="80%" width="80%"/>
 <br />
 <br />
 </p>
